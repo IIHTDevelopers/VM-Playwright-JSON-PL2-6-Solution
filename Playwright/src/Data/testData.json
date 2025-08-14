@@ -1,6 +1,0 @@
-{
-  "TestData1": {
-    "specifyRelation": "Other",
-    "defaultDependentRelation": "Child"
-  }
-}

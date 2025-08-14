@@ -1,3 +1,0 @@
-tc1-VerifyMyInfoTabLoads=true
-tc3-verifyTheNameGetsEditedSuccessfully=true
-ts-13VerifyTheImmigrantAssignImmigrationRecordDeleteFunctionality=true
